@@ -7,8 +7,8 @@ Data Scientist | ML Engineer | AI Researcher | Educator
 
 ## 🔭 Current Work
 - **Mechanistic Interpretability**: Master's thesis on tracing factual associations in Speech Language Models.  
-- **Applied AI**: Data Scientist at Grönska Hydroponics (time-series modeling, SQL/DuckDB, MLflow).  
-- **Math Tutoring**: Founder of [matematikgoteborg.se](https://matematikgoteborg.se).  
+- **Applied AI**: ML Engineer at Unbox AI, building behavior foundation models at scale
+- **Private Tutoring**: In my free time, I also tutor students in math, physics, and AI
 
 ---
 
